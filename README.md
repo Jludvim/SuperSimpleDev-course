@@ -10,7 +10,9 @@ This upload corresponds to that replication.
 Download the repo
 
 Open the youtube.html with a browser
-download-path/youtube.html
+
+Project-path-here/youtube.html
+
 Good to go
 
 ## Content
